@@ -1,7 +1,7 @@
 # Highlight to fpaste
 
 Send content directly to fpaste using the fpaste API through a python script.
-Check out this blog post: [fpase-cli: Share content with magic and style][https://sebiwi.github.io/fpaste-cli/]
+Check out this blog post: [fpase-cli: Share content with magic and style](https://sebiwi.github.io/fpaste-cli/)
 
 ## Usage
 
